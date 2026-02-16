@@ -6,9 +6,7 @@
 
 ## About Me
 
-I am pursuing a degree in Information Technology with a concentration in Systems Administration and Cybersecurity. I design secure lab environments, deploy and manage Active Directory domains in Azure, conduct structured digital forensic investigations, and build Android applications using secure architecture principles.
-
-I focus on building, documenting, and securing real-world technical environments.
+I am completing a Bachelor of Science in Information Technology with a concentration in Systems Administration and Cybersecurity, graduating May 2026. I design secure lab environments, deploy and manage Active Directory domains in Azure, conduct structured digital forensic investigations, and build Android applications using secure architecture principles. I focus on building, documenting, and securing real-world technical environments.
 
 ---
 
